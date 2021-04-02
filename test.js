@@ -6,5 +6,4 @@ function IsEven(){
     }
   }return arr;
 }
-
-console.log(IsEven());
+//console.log(IsEven());
